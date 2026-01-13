@@ -31,7 +31,8 @@ TypeScript • React • Next.js • Node.js • Ruby • Ruby on Rails
 ### 👋 **Hi, I’m tom-takeru!**<br>
 🚀 **Full-Stack Software Engineer** based in Japan<br><br>
 🌍 **Location:** Japan 🇯🇵<br>
-💼 **Role:** Developing & operating services
+💼 **Role:** Developing & operating services<br>
+🔗 **Website:** [tom-takeru.habitat-hub.com](https://tom-takeru.habitat-hub.com)<br>
 ☕ **Culture:** Coffee, board games, continuous learning<br><br>
 
 </td>
